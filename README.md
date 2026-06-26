@@ -3,9 +3,8 @@
  - Podcaster @ 資安解壓縮 InfosecDecompress
  - Fun fact: I don't like fun fact :)
  
-[![Jeffrey's GitHub stats](https://github-readme-stats.jeffreyhung.com/api?username=jeffreyhung&show_icons=true&theme=graywhite)](https://github.com/jeffreyhung/github-readme-stats)
-
 <!--
+[![Jeffrey's GitHub stats](https://github-readme-stats.jeffreyhung.com/api?username=jeffreyhung&show_icons=true&theme=graywhite)](https://github.com/jeffreyhung/github-readme-stats)
 **Jeffreyhung/Jeffreyhung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
